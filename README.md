@@ -1,2 +1,2 @@
 # spark-basics
-A repo for getting to know Spark for data science. It has learning purposes only.
+A repo for getting to know Spark focused on data science. It has learning purposes only.
